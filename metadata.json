@@ -1,0 +1,7 @@
+{
+  "name": "Copy of BizFlow Dashboard",
+  "description": "A comprehensive small business management platform with role-based access for tasks, attendance, and organizational insights.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
